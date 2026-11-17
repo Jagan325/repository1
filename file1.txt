@@ -1,4 +1,4 @@
 This is the demo class 2
 updated
-
 updated by new branch b1
+updated by new branch b2
