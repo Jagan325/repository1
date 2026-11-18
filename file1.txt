@@ -4,4 +4,4 @@ This is the demo class 2
 updated
 updated by new branch b1
 updated by new branch b2
-updated by the remote repository
+updated by the remote repository 
