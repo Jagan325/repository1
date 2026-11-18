@@ -1,3 +1,5 @@
+#New Merge sample
+
 Hii,good morning,
 Hello everyone,
 This is the demo class 2
